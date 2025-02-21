@@ -12,3 +12,4 @@
 | 17.02.2025 | 3 | Penetraatiotestausta  | Nyt ymmärsin paremmin mitä testejä haluttiin tehtävän kun oli video esimerkkinä  |
 | 20.02.2025 | 4 | Portswigger tehtäviä  | sql injektioon ja autentikointiin liittyviä tehtäviä  |
 | 20.02.2025 | 1 | Booking system raportti  | Paranneltu vielä omaa raporttia mukailemaan enemmän tehtävänannossa haluttua palautusraporttia  |
+| 20.02.2025 | 2 | penetraatio testaus part 2  | Suoritettu uudelleen penetraatiotestaus modatulle ohjelmalle ja päivitetty raportti  |
