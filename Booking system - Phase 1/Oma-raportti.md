@@ -22,7 +22,18 @@ joten niitä olisi helppo sen jälkeen käyttää ja päästä käsiksi salassap
 Mielestäni tietoturvan tila ei ole hyvä näiden puutteiden vuoksi.
 
 
+## Toisen vaiheen päivitetyt löydökset 21.02.2025
 
+- Salasanat on nyt enkryptattu tietokannassa. 
+- Automated scan ei löytänyt yhtään haavoittuvuutta
+- Manuaalinen tutkiminen HUD käyttäen:
+    **Informatiivinen - sininen**
+    - User Agent Fuzzer
+        * Tarkistaa eroja vastauksissa, jotka perustuvat fuzzattuun User Agentiin (esim. mobiilisivut, pääsy hakukoneen indeksoijana). Vertaa vastauksen statuskoodia ja vastauksen sisällön hajautusarvoa alkuperäiseen vastaukseen.
+
+
+
+## Ensimmäisen vaiheen löydökset
 
 ### Haavoittuvuudet
 
@@ -61,7 +72,11 @@ Mielestäni tietoturvan tila ei ole hyvä näiden puutteiden vuoksi.
 
 
 
+## Liitteet
 
+Zaproxy raportit:
+
+Vaihe 1: 2025-02-17-Bookingsystem-phase1-Report1-.md
 
 
 
