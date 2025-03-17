@@ -14,4 +14,6 @@
 | 20.02.2025 | 1 | Booking system raportti  | Paranneltu vielä omaa raporttia mukailemaan enemmän tehtävänannossa haluttua palautusraporttia  |
 | 20.02.2025 | 2 | penetraatio testaus part 2  | Suoritettu uudelleen penetraatiotestaus modatulle ohjelmalle ja päivitetty raportti  |
 | 06.03.2025 | 2 |  luento |   
-| 07.03.2025 | 4 |  booking system phase 2 |
+| 07.03.2025 | 4 |  booking system phase 2 , tehtävä 1|
+| 17.03.2025 | 1 | Luento |
+| 17.03.2025 | 2 |  booking system phase 2, tehtävä 2 |
