@@ -42,7 +42,9 @@
 
 **Is there an API folder and pages under it?**
 - Resources, session, users
+
 **Are there any pages in the reservations folder whose name is a number between 1-1000?**
 - Yes, there is a lot of them starting from 30
+
 **When the page is found, then what the page contains?**
 - The page contains the information of specific reservation, including token of reserver
