@@ -24,7 +24,7 @@ Sinulla on oikeus:
 
 ## Yhteystiedot
 Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, voit ottaa meihin yhteyttä:
-- **Sähköposti:** tuki@example.com
+- **Sähköposti:** booking@system.com 
 - **Osoite:** Ajanvarauskatu 6, 1111 Aikala
 
 ---

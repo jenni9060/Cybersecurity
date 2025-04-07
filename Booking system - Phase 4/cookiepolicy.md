@@ -29,8 +29,8 @@ Käytämme myös kolmansien osapuolten evästeitä, esimerkiksi analytiikkatyök
 Pidätämme oikeuden päivittää tätä evästekäytäntöä milloin tahansa. Mahdollisista muutoksista ilmoitetaan verkkosivustollamme.
 
 ## 7. Yhteystiedot
-Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, voit ottaa meihin yhteyttä:
-- **Sähköposti:** tuki@example.com
+Jos sinulla on kysyttävää näistä evästekäytännöistä, voit ottaa meihin yhteyttä:
+- **Sähköposti:** booking@system.com 
 - **Osoite:** Ajanvarauskatu 6, 1111 Aikala
 
 ---
