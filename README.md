@@ -20,3 +20,4 @@
 | 20.03.2025 | 2 | Luento |
 | 20.03.2025 | 2 | Booking system phase 3, tehtävä |
 | 21.03.2025 | 1 | Booking system phase 3, tehtävä |
+| 03.04.2025 | 3 | Booking system phase 4, luentovideo ja tehtävä |
