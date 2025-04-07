@@ -16,8 +16,8 @@
 | 06.03.2025 | 2 |  luento |   
 | 07.03.2025 | 4 |  booking system phase 2 , tehtävä 1|
 | 17.03.2025 | 1 | Luento |
-| 17.03.2025 | 2 |  booking system phase 2, tehtävä 2 |
+| 17.03.2025 | 3 |  booking system phase 2, tehtävä 2 |
 | 20.03.2025 | 2 | Luento |
 | 20.03.2025 | 2 | Booking system phase 3, tehtävä |
-| 21.03.2025 | 1 | Booking system phase 3, tehtävä |
+| 21.03.2025 | 2 | Booking system phase 3, tehtävä |
 | 03.04.2025 | 3 | Booking system phase 4, luentovideo ja tehtävä |
