@@ -21,3 +21,4 @@
 | 20.03.2025 | 2 | Booking system phase 3, tehtävä |
 | 21.03.2025 | 2 | Booking system phase 3, tehtävä |
 | 03.04.2025 | 3 | Booking system phase 4, luentovideo ja tehtävä |
+| 14.04.2025 | 2 | Final phase, luennon pikakelausta ja tehtävä |
